@@ -1,0 +1,18 @@
+{
+  "recipient_name": "안미영",
+  "age": 59,
+  "sender": "가족일동",
+  "text_color": "#FF69B4",
+  "text_color2": "#4B0082",
+  "font_size": 72,
+  "background_type": "기본 배경",
+  "background": "꽃밭",
+  "animation_speed": 3,
+  "flower_count": 20,
+  "image_size": 200,
+  "image_paths": [
+    "saved_birthday_data/images/photo_6147598682216842968_y.jpg",
+    "saved_birthday_data/images/photo_6147598682216842972_y.jpg",
+    "saved_birthday_data/images/photo_6147598682216842976_y.jpg"
+  ]
+}
